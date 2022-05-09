@@ -1,0 +1,7 @@
+data/
+images/
+logs/
+annotations/
+.ipynb_checkpoints/
+*.zip
+*.tar.gz
